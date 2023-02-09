@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red !important;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    transition: 1s;
+    transition-timing-function: linear;
+    transform: rotate(50deg);
+}
