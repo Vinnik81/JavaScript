@@ -1,0 +1,23 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red !important;
+    border: 2px solid black;
+    font-size: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+}
+
+// #div {
+//     border: 3px solid black;
+//     padding: 20px;
+//     #p {
+//         border: 2px solid black;
+//         padding: 20px;
+//         #span {
+//             color: red;
+//         }
+//     }
+// }
