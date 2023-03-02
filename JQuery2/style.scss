@@ -1,0 +1,38 @@
+.cities {
+    .header {
+        border: 2px solid black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 7px;
+        p {
+            margin: 0px;
+        }
+    }
+    .description {
+        border: 2px solid black;
+        height: 150px;
+        display: none;
+        padding: 5px;
+    }
+}
+
+body {
+    padding: 30px;
+}
+
+form {
+    width: 100%;
+    margin: auto;
+    input {
+        width: 75%;
+    }
+    button {
+        width: 15%;
+    }
+    padding: 15px;
+}
+
+* {
+    box-sizing: border-box;
+}

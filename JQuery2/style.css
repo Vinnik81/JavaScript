@@ -1,0 +1,36 @@
+.cities .header {
+  border: 2px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px;
+}
+.cities .header p {
+  margin: 0px;
+}
+.cities .description {
+  border: 2px solid black;
+  height: 150px;
+  display: none;
+  padding: 5px;
+}
+
+body {
+  padding: 30px;
+}
+
+form {
+  width: 100%;
+  margin: auto;
+  padding: 15px;
+}
+form input {
+  width: 75%;
+}
+form button {
+  width: 15%;
+}
+
+* {
+  box-sizing: border-box;
+}/*# sourceMappingURL=style.css.map */
